@@ -1,14 +1,12 @@
 public class Solution {
     public int LargestAltitude(int[] gain) {
-        int [] arr = new int[gain.Length + 1 ];
-        int sum = 0, res = 0;
-        arr[0] = 0;
-        for (int i = 0; i < gain.Length; ++i){
-            sum += gain[i];
-            arr[i + 1] = sum;
+        int currentAltitude = 0, maxAltitude = 0;
+        foreach (int i in gain){
+            currentAltitude += i;
+            if (currentAltitude > maxAltitude)
+            maxAltitude = currentAltitude;
         }
-        res = arr.Max();
-        return res;
+        return maxAltitude;
 
     }
 }
