@@ -1,6 +1,18 @@
 public class Solution {
     public string ReverseWords(string s) {
+
+        string[] split = s.Split(new char [] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+        string res = "";
         
+        for (int i = split.Length - 1; i >= 0; --i){
+            res += split[i];
+            if (i != 0)
+                res += " ";
+        }
+
+        return res;
+        
+        /*
         List<string> words = new List<string>();
         string word = "";
         
@@ -25,17 +37,6 @@ public class Solution {
         }
 
         return res;
-
-
-        /*
-        string[] split = s.Split(new char [] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-        string res = "";
-        for (int i = split.Length - 1; i >= 0; --i){
-            res += split[i];
-            if (i != 0)
-                res += " ";
-        }
-        return res;
-        */
+        */ 
     }
 }
