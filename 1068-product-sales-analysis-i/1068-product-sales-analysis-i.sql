@@ -1,9 +1,9 @@
 /* Write your T-SQL query statement below */
 Select 
-    p.product_name,
-    s.year, 
-    s.price
+    product_name,
+    year, 
+    price
 From  
-    sales s
-Inner Join
-    Product p On p.product_id = s.product_id
+    Sales s, Product p
+where 
+    p.product_id = s.product_id
