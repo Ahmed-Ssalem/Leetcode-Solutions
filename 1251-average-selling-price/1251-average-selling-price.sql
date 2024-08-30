@@ -4,7 +4,7 @@ SELECT
     p.product_id,
     IFNULL( ROUND( SUM(units * price) / SUM(units), 2), 0) AS average_price
 FROM Prices p
-JOIN UnitsSold us
+LEFT JOIN UnitsSold us
 ON 
     p.product_id = us.product_id AND 
     purchase_date BETWEEN start_date AND end_date
