@@ -1,5 +1,5 @@
 /* Write your T-SQL query statement below */
-/*
+
 WITH tiv_2016 AS(
     SELECT
         pid, 
@@ -15,8 +15,8 @@ FROM tiv_2016
 WHERE 
     tiv2015_cnt > 1 AND
     latlon_cnt = 1
-*/
 
+/*
 SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016
 FROM Insurance
 WHERE 
@@ -32,3 +32,4 @@ WHERE
         GROUP BY CONCAT(lat, lon)
         HAVING COUNT(CONCAT(lat, lon)) = 1
     )
+*/
