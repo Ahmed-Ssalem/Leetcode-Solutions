@@ -1,5 +1,20 @@
 /* Write your T-SQL query statement below */
 
+
+SELECT 
+    stock_name, 
+    SUM (
+        CASE
+            WHEN operation  = 'Sell' THEN price 
+            ELSE price * -1 
+        END
+    ) AS capital_gain_loss
+FROM Stocks
+GROUP BY stock_name;
+
+
+
+/*
 WITH Total_Buy_Sell AS
 (
     SELECT 
@@ -22,3 +37,4 @@ ON
     T1.operation <> T2.operation AND 
     T1.operation = 'Sell'
 GROUP BY T1.stock_name
+*/
