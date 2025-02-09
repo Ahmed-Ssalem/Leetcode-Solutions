@@ -1,15 +1,19 @@
 public class Solution {
     public bool IsPalindrome(int x) {
         
-        string num = x.ToString();
-        int len = num.Length;
+        int num = x, reversedNum = 0;
 
-        for (int i = 0, j = len - 1; i < (len / 2) && j >= (len / 2); ++i, --j)
-            if (num[i] != num[j])
-            {
-                return false;
-                break;
+        if (num < 0 || num > 0 && num % 10 == 0)
+            return false;
+        else if (num == 0)
+            return true;
+        else{
+            while ( num > 0){
+                int reminder = num % 10;
+                reversedNum =  (reversedNum * 10) + reminder;
+                num /= 10;
             }
-        return true;        
+        }
+        return x == reversedNum ? true : false;
     }
 }
