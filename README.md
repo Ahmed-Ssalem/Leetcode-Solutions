@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [3767-find-students-who-improved](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
