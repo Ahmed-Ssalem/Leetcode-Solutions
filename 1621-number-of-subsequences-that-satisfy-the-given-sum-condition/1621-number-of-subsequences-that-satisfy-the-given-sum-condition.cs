@@ -8,28 +8,19 @@ public class Solution {
         for (int i = 1; i < (int)1e5; i++)
             pow.Add((2 * pow[i - 1]) % mod) ;
         
+        int left = 0, right = nums.Length - 1;
 
-        for (int i = 0; i < nums.Length; i++)
+        while (left <= right)
         {
-            int left = i, right = nums.Length - 1, idx = -1;
-
-            while (left <= right)
+            if (nums[left] + nums[right] <= target)
             {
-                int mid = (left + right) / 2;
-                if (nums[i] + nums[mid] <= target)
-                {
-                    idx = mid;
-                    left = mid + 1;
-                }
-                else 
-                    right = mid - 1;
+                res = (res + pow[right - left]) % mod;
+                left++;
             }
-            if (idx != -1) 
-            { 
-                res += pow[idx - i]; 
-                res %= mod;
-            }
+            else 
+                right--;
         }
+
         return res;
     }
 }
