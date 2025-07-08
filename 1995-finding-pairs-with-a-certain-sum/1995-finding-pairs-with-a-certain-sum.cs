@@ -3,13 +3,12 @@ public class FindSumPairs {
     private int[] _nums1;
     private int[] _nums2;
     private Dictionary<int, int> _seconedArr;
-    private int _count;
 
     public FindSumPairs(int[] nums1, int[] nums2) {
         _nums1 = nums1;
         _nums2 = nums2;
         _seconedArr = new Dictionary<int, int>();
-        _count = 0;
+
         foreach (int num in _nums2)
         {
             if (_seconedArr.ContainsKey(num))
@@ -20,14 +19,11 @@ public class FindSumPairs {
     }
     
     public void Add(int index, int val) {
+
         int oldVal = _nums2[index];
 
         if (_seconedArr.ContainsKey(oldVal))
-        {
-            _seconedArr[oldVal]--;
-            if (_seconedArr[oldVal] == 0)
-                _seconedArr.Remove(oldVal);
-        }
+            _seconedArr[oldVal]--;      
 
         _nums2[index] += val;
         int newVal = _nums2[index];
@@ -39,14 +35,14 @@ public class FindSumPairs {
     }
     
     public int Count(int tot) {
-        _count = 0;
+        int count = 0;
         foreach (int num in _nums1)
         {
             int res = tot - num;
             if (_seconedArr.ContainsKey(res))
-                _count += _seconedArr[res];  
+                count += _seconedArr[res];  
         }
-        return _count;
+        return count;
     }
 }
 
