@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,8 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Design
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
