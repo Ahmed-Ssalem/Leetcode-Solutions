@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0682-baseball-game](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
