@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
