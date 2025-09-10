@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Two Pointers
