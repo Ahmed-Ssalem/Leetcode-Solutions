@@ -30,12 +30,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
