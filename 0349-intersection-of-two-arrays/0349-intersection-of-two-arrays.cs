@@ -5,13 +5,22 @@ public class Solution {
         Array.Sort(nums2);
         HashSet<int> res = new HashSet<int>();
 
-        foreach (int num1 in nums1)
-            foreach (int num2 in nums2)     
-                if (num1 == num2)
-                {
-                    res.Add(num1);
-                    break;
-                }
+        int i = 0, j =0;
+
+        while (i < nums1.Length && j < nums2.Length)
+        {
+            if (nums1[i] == nums2[j])
+            {
+                res.Add(nums1[i]);
+                ++i;
+                ++j;
+            }
+            else if (nums1[i] < nums2[j])
+                ++i;
+            else 
+                ++j;
+        }  
+                
           
         return res.ToArray();
     }
