@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0940-fruit-into-baskets](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -70,16 +72,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3778-transform-array-by-parity](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
