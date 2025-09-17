@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3778-transform-array-by-parity](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 ## Greedy
 |  |
 | ------- |
@@ -116,5 +120,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
