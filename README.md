@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Database
 |  |
