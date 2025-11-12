@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
