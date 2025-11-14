@@ -15,26 +15,45 @@ public class Solution {
         if (head.next == null)
             return null;
 
-        ListNode current = head;
-        int nodesCount = 0;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prevSlow = null;
 
-        while (current != null)
+        while (fast != null && fast.next != null)
         {
-            current = current.next;
-            nodesCount++;
+            prevSlow = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int middleIndx = nodesCount / 2;
-        int currentIndex = 0;
-        ListNode middleNode = head;
+        prevSlow.next = slow.next;
 
-        while (middleNode != null && currentIndex < middleIndx - 1)
-        {
-            middleNode = middleNode.next;
-            currentIndex++;
-        }
-
-        middleNode.next = middleNode.next.next;
         return head;
+
+        
+        // if (head.next == null)
+        //     return null;
+
+        // ListNode current = head;
+        // int nodesCount = 0;
+
+        // while (current != null)
+        // {
+        //     current = current.next;
+        //     nodesCount++;
+        // }
+
+        // int middleIndx = nodesCount / 2;
+        // int currentIndex = 0;
+        // ListNode middleNode = head;
+
+        // while (middleNode != null && currentIndex < middleIndx - 1)
+        // {
+        //     middleNode = middleNode.next;
+        //     currentIndex++;
+        // }
+
+        // middleNode.next = middleNode.next.next;
+        // return head; 
     }
 }
