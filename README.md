@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
