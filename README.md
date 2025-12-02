@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3778-transform-array-by-parity](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
