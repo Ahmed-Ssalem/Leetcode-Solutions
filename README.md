@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
