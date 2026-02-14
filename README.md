@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1666-make-the-string-great](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3110-score-of-a-string](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
