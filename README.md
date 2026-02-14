@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3668-restore-finishing-order](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3778-transform-array-by-parity](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3668-restore-finishing-order](https://github.com/Ahmed-Ssalem/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
